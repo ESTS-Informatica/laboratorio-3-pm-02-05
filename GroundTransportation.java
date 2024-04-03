@@ -31,7 +31,7 @@ public class GroundTransportation extends Transport
     
     @Override
     public String getTransportType(){
-        return "Ground Transport";
+        return "Transporte Terrestre";
     }
     
     @Override
